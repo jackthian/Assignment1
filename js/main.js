@@ -1,3 +1,5 @@
+import 'bootstrap/dist/css/bootstrap.css'
+
 //Global Variable
 const countriesList=document.getElementById("countries");//another method to output
 let countries;//will contain "fetched" data
