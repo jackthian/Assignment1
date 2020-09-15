@@ -1,4 +1,5 @@
 import 'bootstrap/dist/css/bootstrap.css'
+import '../indexStyles.css'
 
 //Global Variable
 const countriesList=document.getElementById("countries");//another method to output
